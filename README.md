@@ -1,5 +1,5 @@
 # sleepSpace
-Project 1
+
 
 ## Purpose
 To create a functioning website that demonstrates the aspects of basic web development while fulfilling a need. Many high school and college students struggle with healthy sleep schedules and habits, so we created a pleasant interface for positive habit-forming.
